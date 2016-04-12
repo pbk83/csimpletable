@@ -1,0 +1,21 @@
+{
+    "name": "pbk83/csimpletable",    
+    "type": "library",
+    "description": "PHP classes for creating tables",
+    "keywords": ["module", "framework", "mvc", "micro", "education"],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrik Blomqvist",
+            "email": "ulf.patrik.blomqvist@gmail.com",            
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "pbk83\\": "src/" }
+    }
+}
