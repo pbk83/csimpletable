@@ -37,3 +37,5 @@ Use the method createTable() to get the generated html - code.
 | ------------- |:-------------:|
 | Joe           | 43            |
 | Jane          | 45            |
+
+Updated
