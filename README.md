@@ -1,5 +1,8 @@
 pbk83/csimpletable
 =========
+[![Build Status](https://travis-ci.org/pbk83/csimpletable.svg?branch=master)](https://travis-ci.org/pbk83/csimpletable)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/pbk83/csimpletable/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/pbk83/csimpletable/?branch=master)
+
 Install
 ------
 SimpleTable can be installed together with Anax - MVC through Composer. Add the following line to composer.json (under require ):
